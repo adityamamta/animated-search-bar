@@ -1,6 +1,6 @@
 # Animated Search Bar
 
-## <a href="https://adityamamta.github.io/pricing-plans-section/"><img src="img/readme-btn.png" alt="Click to view live website" height="120"></a>
+## <a href="https://adityamamta.github.io/animated-search-bar/"><img src="img/readme-btn.png" alt="Click to view live website" height="120"></a>
 
 A visually appealing search bar with smooth animations, toggleable icons, and responsive design, built using HTML, CSS, and JavaScript.
 
